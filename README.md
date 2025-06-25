@@ -20,4 +20,4 @@ This project helped me understand the concept of multi-device control in an IoT 
 
 OUTPUT
 
-![Image](https://github.com/user-attachments/assets/d4a6a758-1268-4a5c-b085-2f5b66f52d7d)
+![Image](https://github.com/user-attachments/assets/d24b5dc0-9f91-4068-b3c9-f8ddee5cd5ad)
