@@ -16,4 +16,8 @@ In the circuit, I connected two output devices to the Arduino board. One was an 
 
 The Arduino was programmed using the Arduino IDE within Tinkercad. I wrote a code that listens for incoming serial data using Serial.parseInt() and checks the input value. When the user enters 1, it turns on the device connected to pin 7 (LED/light); entering 2 turns it off. Similarly, entering 3 turns on the device connected to pin 9 (bulb/fan), and entering 4 turns it off. This command structure simulates how a mobile app or cloud platform could send simple instructions to an IoT controller like Arduino. To test the system, I used the Serial Monitor in Tinkercad to enter these values, and the devices responded accordingly, switching ON and OFF based on the user’s input.
 
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/d4a6a758-1268-4a5c-b085-2f5b66f52d7d)
+
 This project helped me understand the concept of multi-device control in an IoT system, and how communication between a controller and devices works in a basic home automation setup. Though I used serial input for this simulation, it closely represents how platforms like Blynk, MQTT, or mobile apps would send signals to connected devices in a real-world system. It also strengthened my skills in circuit design, Arduino programming, and logical structuring of control commands. Completing this task gave me a better appreciation of how IoT is applied in daily life and laid the groundwork for more advanced projects like smart security systems and air quality monitoring, which I’ll be working on in the upcoming internship tasks.
